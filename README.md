@@ -35,5 +35,5 @@ and so on ...
 
 
 DISCLAIMER
-This kernel rootkit is just for educatinal purpose and shouldn't be used for any illegal activities, use this at your own risk.
+This kernel rootkit is just for educational purpose and shouldn't be used for any illegal activities, use this at your own risk.
 
